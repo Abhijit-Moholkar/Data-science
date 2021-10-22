@@ -1,1 +1,1 @@
-# Data-scientist
+# Data-science
